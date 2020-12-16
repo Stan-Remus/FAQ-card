@@ -1,0 +1,14 @@
+.background{
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(hsl(273, 75%, 66%),hsl(240, 73%, 65%));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .faq_card{
+    height: 40vh;
+    width: 70vw;
+    background-color: white;
+    border-radius: 3vw;
+  }
+}
